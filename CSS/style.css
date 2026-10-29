@@ -1,9 +1,3 @@
-*. {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
 
 body {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -44,8 +38,8 @@ h1 {
 }
 
 .info {
-    text-align: center;
-    background:red;
+    text-align: center; 
+      background:navy;
     padding: 20px;
     border-radius: 10px;
     border-style: double;
